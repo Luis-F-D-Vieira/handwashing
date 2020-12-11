@@ -1,8 +1,10 @@
-<p>How To Component</p>
+<div bp="grid">
+    <p bp="offset-5@md 4@md 12@sm">How To Component</p>
+</div>
 
 <style>
     img{
-        max-width: 100%;
+        width: 100%;
     }
 </style>
 
